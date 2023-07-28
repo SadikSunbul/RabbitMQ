@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabitMq.Publisher.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabitMq.Publisher.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabitMq.Publisher.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabitMq.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabitMq.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\refint\RabitMq.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\RabitMq.Publisher.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\RabitMq.Publisher\obj\Debug\net7.0\ref\RabitMq.Publisher.dll

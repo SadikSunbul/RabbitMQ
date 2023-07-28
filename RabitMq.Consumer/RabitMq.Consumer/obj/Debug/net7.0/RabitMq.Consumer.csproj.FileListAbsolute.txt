@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabitMq.Consumer.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabitMq.Consumer.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabitMq.Consumer.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabitMq.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabitMq.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\refint\RabitMq.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\RabitMq.Consumer.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\RabitMq.Consumer\obj\Debug\net7.0\ref\RabitMq.Consumer.dll
