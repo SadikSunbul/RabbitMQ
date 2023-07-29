@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\DirectExchan.Consumer.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\DirectExchan.Consumer.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\DirectExchan.Consumer.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\DirectExchan.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\DirectExchan.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\refint\DirectExchan.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\DirectExchan.Consumer.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\DirectExchan.Consumer\obj\Debug\net7.0\ref\DirectExchan.Consumer.dll

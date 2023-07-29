@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\DirectExchan.Publisher.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\DirectExchan.Publisher.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\DirectExchan.Publisher.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\DirectExchan.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\DirectExchan.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\refint\DirectExchan.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\DirectExchan.Publisher.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\DirectExchan.Publisher\obj\Debug\net7.0\ref\DirectExchan.Publisher.dll
