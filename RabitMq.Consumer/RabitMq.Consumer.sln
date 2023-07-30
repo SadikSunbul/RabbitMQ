@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic.Consumer", "Topic.Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Header.Consumer", "Header.Consumer\Header.Consumer.csproj", "{CEE1021E-076F-4EA1-9B52-D821F0443376}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message.Tamplate.Consumer", "Message.Tamplate.Consumer\Message.Tamplate.Consumer.csproj", "{35529EE4-6B2F-49F3-ABD7-6E8EFCACFCAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CEE1021E-076F-4EA1-9B52-D821F0443376}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE1021E-076F-4EA1-9B52-D821F0443376}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE1021E-076F-4EA1-9B52-D821F0443376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35529EE4-6B2F-49F3-ABD7-6E8EFCACFCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35529EE4-6B2F-49F3-ABD7-6E8EFCACFCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35529EE4-6B2F-49F3-ABD7-6E8EFCACFCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35529EE4-6B2F-49F3-ABD7-6E8EFCACFCAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
