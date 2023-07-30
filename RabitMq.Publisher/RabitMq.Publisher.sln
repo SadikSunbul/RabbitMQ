@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanout.Publisher", "Fanout.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic.Publisher", "Topic.Publisher\Topic.Publisher.csproj", "{7A24F207-823E-4754-ACD8-4CE5C624CD55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Header.Publisher", "Header.Publisher\Header.Publisher.csproj", "{80101E6F-9ECA-4B7C-B5B1-C9DE45B173C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7A24F207-823E-4754-ACD8-4CE5C624CD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A24F207-823E-4754-ACD8-4CE5C624CD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A24F207-823E-4754-ACD8-4CE5C624CD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80101E6F-9ECA-4B7C-B5B1-C9DE45B173C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80101E6F-9ECA-4B7C-B5B1-C9DE45B173C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80101E6F-9ECA-4B7C-B5B1-C9DE45B173C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80101E6F-9ECA-4B7C-B5B1-C9DE45B173C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

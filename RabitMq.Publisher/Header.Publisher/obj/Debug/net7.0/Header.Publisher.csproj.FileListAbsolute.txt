@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\Header.Publisher.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\Header.Publisher.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\Header.Publisher.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\Header.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\Header.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\refint\Header.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\Header.Publisher.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Header.Publisher\obj\Debug\net7.0\ref\Header.Publisher.dll
