@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\Fanout.Publisher.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\Fanout.Publisher.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\Fanout.Publisher.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\Fanout.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\Fanout.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\refint\Fanout.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\Fanout.Publisher.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Fanout.Publisher\obj\Debug\net7.0\ref\Fanout.Publisher.dll
