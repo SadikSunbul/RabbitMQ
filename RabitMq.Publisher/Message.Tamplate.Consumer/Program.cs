@@ -24,12 +24,25 @@ using IModel chanel = connection.CreateModel();
 #endregion
 
 
-
-
-
 #region Publish/Subscrite(Pub/Sub)Tasarımı
 
+//string exchangeName = "example-pub-sub-exchange";
+
+//chanel.ExchangeDeclare(
+//    exchange: exchangeName,
+//    type: ExchangeType.Fanout);
+
+//byte[] message = Encoding.UTF8.GetBytes("merhaba");
+
+//chanel.BasicPublish(
+//       exchange: exchangeName,
+//        routingKey: string.Empty, //tum kuyruklara gonderecegı ıcın bos 
+//         body: message
+//     );
+
 #endregion
+
+
 #region Work Queue(iş kuyrugu)Tasarımı
 
 #endregion

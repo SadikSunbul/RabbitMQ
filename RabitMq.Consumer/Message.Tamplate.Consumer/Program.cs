@@ -30,8 +30,43 @@ using IModel chanel = connection.CreateModel();
 #endregion
 
 #region Publish/Subscrite(Pub/Sub)Tasarımı
+//string exchangeName = "example-pub-sub-exchange";
+//chanel.ExchangeDeclare(
+//    exchange: exchangeName,
+//    type: ExchangeType.Fanout);
+
+//string queuName = chanel.QueueDeclare().QueueName;
+
+//chanel.QueueBind(
+//    queue: queuName,
+//    exchange: exchangeName,
+//    routingKey: string.Empty
+//    );
+
+//EventingBasicConsumer consumer = new(chanel);
+
+//chanel.BasicConsume(
+//     queue: queuName,
+//      autoAck: true,
+//       consumer: consumer
+//    );
+
+////istege baglı yazılabilir
+//chanel.BasicQos(
+//     prefetchCount: 1,
+//     prefetchSize: 0,
+//     global: false
+//    );
+
+//consumer.Received += (send, e) =>
+//{
+//    Console.WriteLine(Encoding.UTF8.GetString(e.Body.Span));
+//};
 
 #endregion
+
+
+
 #region Work Queue(iş kuyrugu)Tasarımı
 
 #endregion
