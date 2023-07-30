@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\Topic.Consumer.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\Topic.Consumer.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\Topic.Consumer.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\Topic.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\Topic.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\refint\Topic.Consumer.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\Topic.Consumer.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Consumer\Topic.Consumer\obj\Debug\net7.0\ref\Topic.Consumer.dll

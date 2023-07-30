@@ -1,0 +1,17 @@
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\Topic.Publisher.exe
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\Topic.Publisher.deps.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\Topic.Publisher.runtimeconfig.json
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\Topic.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\Topic.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.csproj.AssemblyReference.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.AssemblyInfoInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.AssemblyInfo.cs
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.csproj.CopyComplete
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\refint\Topic.Publisher.dll
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.pdb
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\Topic.Publisher.genruntimeconfig.cache
+C:\Users\artredline\Desktop\RabitMq\RabitMq.Publisher\Topic.Publisher\obj\Debug\net7.0\ref\Topic.Publisher.dll
