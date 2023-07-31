@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPAM1eInXz3diyEfytwmBpg3/OVDvWgMg6fRy0qzZ2Ov/bL/889qxBO82av7ey+v/3o7UInGf1vMQ14wR5mPnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artredline\\Desktop\\RabitMq\\MassTransit\\RabbitMQ.ESB.MassTransit.Consumer\\RabbitMQ.ESB.MassTransit.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artredline\\.nuget\\packages\\masstransit\\8.0.16\\masstransit.8.0.16.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\masstransit.abstractions\\8.0.16\\masstransit.abstractions.8.0.16.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\masstransit.rabbitmq\\8.0.16\\masstransit.rabbitmq.8.0.16.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512",
+    "C:\\Users\\artredline\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

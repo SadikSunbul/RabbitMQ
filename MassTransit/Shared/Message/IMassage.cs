@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RabbitMQ.ESB.MassTransit.Shared.Message
+{
+    public interface IMassage
+    {
+        public string Text { get; set; }
+
+    }
+}
